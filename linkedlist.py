@@ -1,0 +1,3 @@
+
+class linkedlist:
+    pass
