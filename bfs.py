@@ -57,3 +57,5 @@ make_symmetrically_adjacent(node_4, node_5)
 
 
 bfs(node_0)
+bfs(node_2)
+bfs(node_5)
